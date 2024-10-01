@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\David Coulson\\source\\repos\\AmpliFund_Coulson\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41EDE997-0021-4258-8EDB-5AE9E559D9ED}|AmpliFund_Coulson.csproj|c:\\users\\david coulson\\source\\repos\\amplifund_coulson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41EDE997-0021-4258-8EDB-5AE9E559D9ED}|AmpliFund_Coulson.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41EDE997-0021-4258-8EDB-5AE9E559D9ED}|AmpliFund_Coulson.csproj|c:\\users\\david coulson\\source\\repos\\amplifund_coulson\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41EDE997-0021-4258-8EDB-5AE9E559D9ED}|AmpliFund_Coulson.csproj|solutionrelative:controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41EDE997-0021-4258-8EDB-5AE9E559D9ED}|AmpliFund_Coulson.csproj|c:\\users\\david coulson\\source\\repos\\amplifund_coulson\\controllers\\guestbookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41EDE997-0021-4258-8EDB-5AE9E559D9ED}|AmpliFund_Coulson.csproj|solutionrelative:controllers\\guestbookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41EDE997-0021-4258-8EDB-5AE9E559D9ED}|AmpliFund_Coulson.csproj|c:\\users\\david coulson\\source\\repos\\amplifund_coulson\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{41EDE997-0021-4258-8EDB-5AE9E559D9ED}|AmpliFund_Coulson.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB560B2-021A-44B5-AC00-20FE0C5D35FB}|..\\BookingBusinessLayer\\BookingBusinessLayer.csproj|c:\\users\\david coulson\\source\\repos\\bookingbusinesslayer\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB560B2-021A-44B5-AC00-20FE0C5D35FB}|..\\BookingBusinessLayer\\BookingBusinessLayer.csproj|c:\\users\\david coulson\\source\\repos\\bookingbusinesslayer\\interfaces\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB560B2-021A-44B5-AC00-20FE0C5D35FB}|..\\BookingBusinessLayer\\BookingBusinessLayer.csproj|c:\\users\\david coulson\\source\\repos\\bookingbusinesslayer\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70C6E391-11E3-4DAC-838F-2319F6D36B4E}|..\\BookingDataLayer\\BookingDataLayer.csproj|c:\\users\\david coulson\\source\\repos\\bookingdatalayer\\models\\guestbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70C6E391-11E3-4DAC-838F-2319F6D36B4E}|..\\BookingDataLayer\\BookingDataLayer.csproj|c:\\users\\david coulson\\source\\repos\\bookingdatalayer\\bookdb_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70C6E391-11E3-4DAC-838F-2319F6D36B4E}|..\\BookingDataLayer\\BookingDataLayer.csproj|c:\\users\\david coulson\\source\\repos\\bookingdatalayer\\models\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 381,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\David Coulson\\source\\repos\\AmpliFund_Coulson\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\David Coulson\\source\\repos\\AmpliFund_Coulson\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T10:16:20.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GuestBooking.cs",
+              "DocumentMoniker": "C:\\Users\\David Coulson\\source\\repos\\BookingDataLayer\\Models\\GuestBooking.cs",
+              "RelativeDocumentMoniker": "..\\BookingDataLayer\\Models\\GuestBooking.cs",
+              "ToolTip": "C:\\Users\\David Coulson\\source\\repos\\BookingDataLayer\\Models\\GuestBooking.cs",
+              "RelativeToolTip": "..\\BookingDataLayer\\Models\\GuestBooking.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T10:47:26.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\David Coulson\\source\\repos\\BookingBusinessLayer\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "..\\BookingBusinessLayer\\Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\David Coulson\\source\\repos\\BookingBusinessLayer\\Models\\Booking.cs",
+              "RelativeToolTip": "..\\BookingBusinessLayer\\Models\\Booking.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T10:29:50.821Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 374,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DemoController.cs",
+              "DocumentMoniker": "C:\\Users\\David Coulson\\source\\repos\\AmpliFund_Coulson\\Controllers\\DemoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DemoController.cs",
+              "ToolTip": "C:\\Users\\David Coulson\\source\\repos\\AmpliFund_Coulson\\Controllers\\DemoController.cs",
+              "RelativeToolTip": "Controllers\\DemoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T12:38:42.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GuestBookingController.cs",
+              "DocumentMoniker": "C:\\Users\\David Coulson\\source\\repos\\AmpliFund_Coulson\\Controllers\\GuestBookingController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GuestBookingController.cs",
+              "ToolTip": "C:\\Users\\David Coulson\\source\\repos\\AmpliFund_Coulson\\Controllers\\GuestBookingController.cs",
+              "RelativeToolTip": "Controllers\\GuestBookingController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAIwDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T10:21:47.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\David Coulson\\source\\repos\\AmpliFund_Coulson\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\David Coulson\\source\\repos\\AmpliFund_Coulson\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-01T12:36:51.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookingService.cs",
+              "DocumentMoniker": "C:\\Users\\David Coulson\\source\\repos\\BookingBusinessLayer\\Services\\BookingService.cs",
+              "RelativeDocumentMoniker": "..\\BookingBusinessLayer\\Services\\BookingService.cs",
+              "ToolTip": "C:\\Users\\David Coulson\\source\\repos\\BookingBusinessLayer\\Services\\BookingService.cs",
+              "RelativeToolTip": "..\\BookingBusinessLayer\\Services\\BookingService.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAMwEMAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T10:34:58.288Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 146,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IBookingService.cs",
+              "DocumentMoniker": "C:\\Users\\David Coulson\\source\\repos\\BookingBusinessLayer\\Interfaces\\IBookingService.cs",
+              "RelativeDocumentMoniker": "..\\BookingBusinessLayer\\Interfaces\\IBookingService.cs",
+              "ToolTip": "C:\\Users\\David Coulson\\source\\repos\\BookingBusinessLayer\\Interfaces\\IBookingService.cs",
+              "RelativeToolTip": "..\\BookingBusinessLayer\\Interfaces\\IBookingService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T10:29:15.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookDB_Context.cs",
+              "DocumentMoniker": "C:\\Users\\David Coulson\\source\\repos\\BookingDataLayer\\BookDB_Context.cs",
+              "RelativeDocumentMoniker": "..\\BookingDataLayer\\BookDB_Context.cs",
+              "ToolTip": "C:\\Users\\David Coulson\\source\\repos\\BookingDataLayer\\BookDB_Context.cs",
+              "RelativeToolTip": "..\\BookingDataLayer\\BookDB_Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T11:06:49.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Venue.cs",
+              "DocumentMoniker": "C:\\Users\\David Coulson\\source\\repos\\BookingDataLayer\\Models\\Venue.cs",
+              "RelativeDocumentMoniker": "..\\BookingDataLayer\\Models\\Venue.cs",
+              "ToolTip": "C:\\Users\\David Coulson\\source\\repos\\BookingDataLayer\\Models\\Venue.cs",
+              "RelativeToolTip": "..\\BookingDataLayer\\Models\\Venue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T11:08:55.533Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 86,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

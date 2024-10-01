@@ -1,0 +1,6 @@
+@AmpliFund_Coulson_HostAddress = http://localhost:5102
+
+GET {{AmpliFund_Coulson_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
