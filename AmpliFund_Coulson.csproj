@@ -7,11 +7,23 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="BookingBusinessLayer\**" />
+    <Compile Remove="BookingDataLayer\**" />
+    <Content Remove="BookingBusinessLayer\**" />
+    <Content Remove="BookingDataLayer\**" />
+    <EmbeddedResource Remove="BookingBusinessLayer\**" />
+    <EmbeddedResource Remove="BookingDataLayer\**" />
+    <None Remove="BookingBusinessLayer\**" />
+    <None Remove="BookingDataLayer\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\BookingBusinessLayer\BookingBusinessLayer.csproj" />
+    <ProjectReference Include="BookingBusinessLayer\BookingBusinessLayer.csproj" />
+    <ProjectReference Include="BookingDataLayer\BookingDataLayer.csproj" />
   </ItemGroup>
 
 </Project>
