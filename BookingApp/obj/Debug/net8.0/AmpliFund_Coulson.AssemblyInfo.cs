@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AmpliFund_Coulson")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a89961c9957cea2345d02f77e47d058dc81f8270")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d5c5658cf05bb9a659c0aa6db0c17c391eefe3e")]
 [assembly: System.Reflection.AssemblyProductAttribute("AmpliFund_Coulson")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AmpliFund_Coulson")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\David Coulson\\source\\repos\\AmpliFund_Coulson\\AmpliFund_Coulson.csproj": {}
+    "C:\\Users\\David Coulson\\source\\repos\\AmpliFund_Coulson\\BookingApp\\AmpliFund_Coulson.csproj": {}
   },
   "projects": {
-    "C:\\Users\\David Coulson\\source\\repos\\AmpliFund_Coulson\\AmpliFund_Coulson.csproj": {
+    "C:\\Users\\David Coulson\\source\\repos\\AmpliFund_Coulson\\BookingApp\\AmpliFund_Coulson.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\David Coulson\\source\\repos\\AmpliFund_Coulson\\AmpliFund_Coulson.csproj",
+        "projectUniqueName": "C:\\Users\\David Coulson\\source\\repos\\AmpliFund_Coulson\\BookingApp\\AmpliFund_Coulson.csproj",
         "projectName": "AmpliFund_Coulson",
-        "projectPath": "C:\\Users\\David Coulson\\source\\repos\\AmpliFund_Coulson\\AmpliFund_Coulson.csproj",
+        "projectPath": "C:\\Users\\David Coulson\\source\\repos\\AmpliFund_Coulson\\BookingApp\\AmpliFund_Coulson.csproj",
         "packagesPath": "C:\\Users\\David Coulson\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\David Coulson\\source\\repos\\AmpliFund_Coulson\\obj\\",
+        "outputPath": "C:\\Users\\David Coulson\\source\\repos\\AmpliFund_Coulson\\BookingApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\David Coulson\\AppData\\Roaming\\NuGet\\NuGet.Config",

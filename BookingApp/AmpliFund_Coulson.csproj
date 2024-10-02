@@ -22,8 +22,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="BookingBusinessLayer\BookingBusinessLayer.csproj" />
-    <ProjectReference Include="BookingDataLayer\BookingDataLayer.csproj" />
+    <ProjectReference Include="..\BookingBusinessLayer\BookingBusinessLayer.csproj" />
+    <ProjectReference Include="..\BookingDataLayer\BookingDataLayer.csproj" />
   </ItemGroup>
 
 </Project>
